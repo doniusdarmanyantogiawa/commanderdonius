@@ -7,7 +7,13 @@
       "Istilah",
       "Deskripsi"
     ],
-    "data": [],
+    "data": [
+      {
+        "No": "1",
+        "Istilah": "Audit",
+        "Deskripsi": "Diperiksa"
+      }
+    ],
     "bgColor": "#8b5cf6"
   }
 ]
