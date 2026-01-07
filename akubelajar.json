@@ -123,6 +123,10 @@
       {
         "Istilah": "Uptrend",
         "Definisi / Keterangan Singkat": "Tren naik: Ditandai dengan HL (Higher Low) dan HH (Higher High)."
+      },
+      {
+        "Istilah": "Downtrend",
+        "Definisi / Keterangan Singkat": "Tren turun: Ditandai dengan LH (Lower High) dan LL (Lower Low)."
       }
     ],
     "bgColor": "#10b981"
