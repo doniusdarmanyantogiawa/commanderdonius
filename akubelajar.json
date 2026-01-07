@@ -69,6 +69,10 @@
       {
         "Istilah": "Stop Loss (SL)",
         "Definisi / Keterangan Singkat": "Batas kerugian otomatis untuk melindungi modal dari kebangkrutan."
+      },
+      {
+        "Istilah": "Take Profit (TP)",
+        "Definisi / Keterangan Singkat": "Target keuntungan otomatis di mana posisi akan ditutup."
       }
     ],
     "bgColor": "#8b5cf6"
