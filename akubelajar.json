@@ -111,5 +111,15 @@
       }
     ],
     "bgColor": "#334155"
+  },
+  {
+    "id": "t1767807723558",
+    "name": "Tren Harga",
+    "columns": [
+      "Istilah",
+      "Definisi / Keterangan Singkat"
+    ],
+    "data": [],
+    "bgColor": "#334155"
   }
 ]
