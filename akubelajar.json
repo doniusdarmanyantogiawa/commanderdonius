@@ -33,5 +33,15 @@
       }
     ],
     "bgColor": "#06b6d4"
+  },
+  {
+    "id": "t1767807055045",
+    "name": "Trading: Saldo & Risiko",
+    "columns": [
+      "Istilah",
+      "Definisi / Keterangan Singkat"
+    ],
+    "data": [],
+    "bgColor": "#8b5cf6"
   }
 ]
