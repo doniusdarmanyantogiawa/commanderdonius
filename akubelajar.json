@@ -84,7 +84,12 @@
       "Istilah",
       "Definisi / Keterangan Singkat"
     ],
-    "data": [],
+    "data": [
+      {
+        "Istilah": "Price Action",
+        "Definisi / Keterangan Singkat": "Analisis pergerakan harga murni tanpa bantuan indikator berlebih."
+      }
+    ],
     "bgColor": "#334155"
   }
 ]
