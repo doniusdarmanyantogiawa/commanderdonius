@@ -53,6 +53,10 @@
       {
         "Istilah": "Mode Cross",
         "Definisi / Keterangan Singkat": "Menggunakan seluruh saldo akun untuk menahan posisi (Risiko likuidasi total)."
+      },
+      {
+        "Istilah": "Mode Isolated",
+        "Definisi / Keterangan Singkat": "Membatasi risiko hanya pada saldo yang digunakan di satu posisi saja."
       }
     ],
     "bgColor": "#8b5cf6"
