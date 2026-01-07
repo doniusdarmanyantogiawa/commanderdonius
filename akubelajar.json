@@ -29,7 +29,13 @@
       "Nama",
       "Deskripsi"
     ],
-    "data": [],
+    "data": [
+      {
+        "No": "1",
+        "Nama": "Uang",
+        "Deskripsi": "Alat Transaksi"
+      }
+    ],
     "bgColor": "#06b6d4"
   }
 ]
