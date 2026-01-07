@@ -127,6 +127,10 @@
       {
         "Istilah": "Downtrend",
         "Definisi / Keterangan Singkat": "Tren turun: Ditandai dengan LH (Lower High) dan LL (Lower Low)."
+      },
+      {
+        "Istilah": "Sideways",
+        "Definisi / Keterangan Singkat": "Konsolidasi: Harga bergerak mendatar di rentang tertentu."
       }
     ],
     "bgColor": "#10b981"
