@@ -169,7 +169,12 @@
       "Istilah",
       "Definisi / Keterangan Singkat"
     ],
-    "data": [],
+    "data": [
+      {
+        "Istilah": "Fomo",
+        "Definisi / Keterangan Singkat": "Fear of Missing Out: Ikut-ikutan beli karena takut tertinggal tren."
+      }
+    ],
     "bgColor": "#1e293b"
   }
 ]
