@@ -154,6 +154,10 @@
       {
         "Istilah": "Swap",
         "Definisi / Keterangan Singkat": "Biaya inap jika posisi trading dibiarkan terbuka hingga esok hari."
+      },
+      {
+        "Istilah": "Spread",
+        "Definisi / Keterangan Singkat": "Selisih harga jual (Ask) dan harga beli (Bid); biaya transaksi untuk broker."
       }
     ],
     "bgColor": "#6366f1"
