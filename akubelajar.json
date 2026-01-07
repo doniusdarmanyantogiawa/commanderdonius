@@ -146,6 +146,10 @@
       {
         "Istilah": "Pip",
         "Definisi / Keterangan Singkat": "Percentage in Point: Satuan terkecil perubahan harga (terutama di Forex)."
+      },
+      {
+        "Istilah": "Lot",
+        "Definisi / Keterangan Singkat": "Satuan kontrak perdagangan (Standard, Mini, Micro, Nano)."
       }
     ],
     "bgColor": "#6366f1"
