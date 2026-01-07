@@ -10,6 +10,10 @@
       {
         "Istilah": "Kustodian",
         "Definisi / Keterangan Singkat": "Lembaga/Bank tempat penyimpanan aset dan administrasi investasi."
+      },
+      {
+        "Istilah": "Lump Sum",
+        "Definisi / Keterangan Singkat": "Strategi beli aset sekaligus dalam jumlah besar di satu waktu."
       }
     ],
     "bgColor": "#06b6d4"
