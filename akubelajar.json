@@ -142,7 +142,12 @@
       "Istilah",
       "Definisi / Keterangan Singkat"
     ],
-    "data": [],
+    "data": [
+      {
+        "Istilah": "Pip",
+        "Definisi / Keterangan Singkat": "Percentage in Point: Satuan terkecil perubahan harga (terutama di Forex)."
+      }
+    ],
     "bgColor": "#6366f1"
   }
 ]
