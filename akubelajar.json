@@ -161,5 +161,15 @@
       }
     ],
     "bgColor": "#6366f1"
+  },
+  {
+    "id": "t1767808155444",
+    "name": "Psikologi & Perilaku",
+    "columns": [
+      "Istilah",
+      "Definisi / Keterangan Singkat"
+    ],
+    "data": [],
+    "bgColor": "#1e293b"
   }
 ]
