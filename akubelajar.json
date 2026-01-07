@@ -61,6 +61,10 @@
       {
         "Istilah": "Floating Lose",
         "Definisi / Keterangan Singkat": "Kerugian berjalan yang belum dikunci (masih sementara)."
+      },
+      {
+        "Istilah": "Leverage",
+        "Definisi / Keterangan Singkat": "Daya ungkit atau \"pinjaman\" modal untuk memperbesar daya beli."
       }
     ],
     "bgColor": "#8b5cf6"
