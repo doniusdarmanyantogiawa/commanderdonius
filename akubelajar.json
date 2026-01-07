@@ -22,6 +22,10 @@
       {
         "Istilah": "Capital Gain",
         "Definisi / Keterangan Singkat": "Keuntungan dari selisih harga jual yang lebih tinggi dari harga beli."
+      },
+      {
+        "Istilah": "Dividen",
+        "Definisi / Keterangan Singkat": "Pembagian laba perusahaan kepada pemegang saham."
       }
     ],
     "bgColor": "#06b6d4"
