@@ -119,7 +119,12 @@
       "Istilah",
       "Definisi / Keterangan Singkat"
     ],
-    "data": [],
+    "data": [
+      {
+        "Istilah": "Uptrend",
+        "Definisi / Keterangan Singkat": "Tren naik: Ditandai dengan HL (Higher Low) dan HH (Higher High)."
+      }
+    ],
     "bgColor": "#10b981"
   }
 ]
