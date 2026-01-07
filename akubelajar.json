@@ -150,6 +150,10 @@
       {
         "Istilah": "Lot",
         "Definisi / Keterangan Singkat": "Satuan kontrak perdagangan (Standard, Mini, Micro, Nano)."
+      },
+      {
+        "Istilah": "Swap",
+        "Definisi / Keterangan Singkat": "Biaya inap jika posisi trading dibiarkan terbuka hingga esok hari."
       }
     ],
     "bgColor": "#6366f1"
