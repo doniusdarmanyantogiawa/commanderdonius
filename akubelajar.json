@@ -134,5 +134,15 @@
       }
     ],
     "bgColor": "#10b981"
+  },
+  {
+    "id": "t1767807896965",
+    "name": "Istilah Spesifik Forex/Leverage",
+    "columns": [
+      "Istilah",
+      "Definisi / Keterangan Singkat"
+    ],
+    "data": [],
+    "bgColor": "#6366f1"
   }
 ]
