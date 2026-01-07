@@ -34,6 +34,11 @@
         "No": "1",
         "Nama": "Uang",
         "Deskripsi": "Alat Transaksi"
+      },
+      {
+        "No": "audit",
+        "Nama": "audit",
+        "Deskripsi": "audit"
       }
     ],
     "bgColor": "#06b6d4"
