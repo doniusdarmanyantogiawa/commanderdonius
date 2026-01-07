@@ -26,6 +26,10 @@
       {
         "Istilah": "Dividen",
         "Definisi / Keterangan Singkat": "Pembagian laba perusahaan kepada pemegang saham."
+      },
+      {
+        "Istilah": "Compound Interest",
+        "Definisi / Keterangan Singkat": "Efek bunga berbunga; keuntungan yang diinvestasikan kembali untuk hasil lebih besar."
       }
     ],
     "bgColor": "#06b6d4"
