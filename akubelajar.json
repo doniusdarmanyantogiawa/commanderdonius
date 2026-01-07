@@ -6,7 +6,12 @@
       "Istilah",
       "Definisi / Keterangan Singkat"
     ],
-    "data": [],
+    "data": [
+      {
+        "Istilah": "Kustodian",
+        "Definisi / Keterangan Singkat": "Lembaga/Bank tempat penyimpanan aset dan administrasi investasi."
+      }
+    ],
     "bgColor": "#06b6d4"
   }
 ]
