@@ -49,6 +49,10 @@
       {
         "Istilah": "Margin",
         "Definisi / Keterangan Singkat": "Jaminan atau saldo yang digunakan untuk membuka posisi trading."
+      },
+      {
+        "Istilah": "Mode Cross",
+        "Definisi / Keterangan Singkat": "Menggunakan seluruh saldo akun untuk menahan posisi (Risiko likuidasi total)."
       }
     ],
     "bgColor": "#8b5cf6"
