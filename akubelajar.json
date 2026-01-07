@@ -12,6 +12,11 @@
         "No": "1",
         "Istilah": "Audit",
         "Deskripsi": "Diperiksa"
+      },
+      {
+        "No": "belajar",
+        "Istilah": "belajar menambah pengetahuan",
+        "Deskripsi": "pengetahuan akan menambah kemampuan kita lebih baik"
       }
     ],
     "bgColor": "#8b5cf6"
