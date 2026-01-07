@@ -65,6 +65,10 @@
       {
         "Istilah": "Leverage",
         "Definisi / Keterangan Singkat": "Daya ungkit atau \"pinjaman\" modal untuk memperbesar daya beli."
+      },
+      {
+        "Istilah": "Stop Loss (SL)",
+        "Definisi / Keterangan Singkat": "Batas kerugian otomatis untuk melindungi modal dari kebangkrutan."
       }
     ],
     "bgColor": "#8b5cf6"
