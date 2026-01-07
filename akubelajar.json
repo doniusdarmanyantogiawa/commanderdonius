@@ -104,6 +104,10 @@
       {
         "Istilah": "Retest",
         "Definisi / Keterangan Singkat": "Harga kembali menyentuh area yang baru ditembus sebelum melanjutkan tren."
+      },
+      {
+        "Istilah": "Divergence",
+        "Definisi / Keterangan Singkat": "Perbedaan antara arah harga dan arah indikator (tanda pembalikan arah)."
       }
     ],
     "bgColor": "#334155"
