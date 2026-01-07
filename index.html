@@ -11,12 +11,14 @@
             --card-bg: #ffffff; --text: #1e293b; --text-light: #64748b;
             --glass: rgba(255, 255, 255, 0.8); --border: rgba(0,0,0,0.05); --header-bg: #f8fafc;
             --accent-glow: rgba(99, 102, 241, 0.3);
+            --search-bg: #e2e8f0;
         }
         [data-theme="dark"] {
             --bg: #0f172a; --card-bg: #1e293b; --text: #f1f5f9;
             --text-light: #94a3b8; --glass: rgba(15, 23, 42, 0.8);
             --border: rgba(255,255,255,0.1); --header-bg: #1e293b;
             --accent-glow: rgba(99, 102, 241, 0.15);
+            --search-bg: #334155;
         }
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Plus Jakarta Sans', sans-serif; transition: background 0.3s, color 0.2s; }
         body { background: var(--bg); color: var(--text); min-height: 100vh; overflow-x: hidden; -webkit-user-select: none; user-select: none; }
@@ -71,6 +73,15 @@
         th { background: var(--header-bg); padding: 12px 15px; font-size: 0.7rem; color: var(--text-light); text-transform: uppercase; text-align: left; }
         td { padding: 12px 15px; border-bottom: 1px solid var(--border); font-size: 0.85rem; color: var(--text); }
         .td-action { color: #ef4444; font-weight: 800; cursor: pointer; text-align: right; width: 40px; padding-right: 20px; }
+
+        /* SEARCH FEATURE STYLES */
+        .search-container { display: flex; align-items: center; background: var(--search-bg); padding: 5px 15px; border-radius: 12px; transition: all 0.3s ease; }
+        .search-input { background: none; border: none; color: var(--text); outline: none; width: 0; transition: all 0.3s ease; font-size: 0.85rem; font-weight: 600; }
+        .search-container:focus-within { width: 200px; ring: 2px solid var(--primary); }
+        .search-container:focus-within .search-input { width: 160px; margin-left: 10px; }
+        .search-icon { cursor: pointer; font-size: 1rem; }
+        .highlight-row { background: rgba(99, 102, 241, 0.2) !important; border-left: 4px solid var(--primary); }
+        .hidden-row { display: none; }
 
         /* MODALS */
         .modal { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.7); backdrop-filter: blur(8px); display: none; align-items: center; justify-content: center; z-index: 2000; padding: 15px; }
@@ -129,7 +140,13 @@
     <div class="content" id="main-content">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 25px;">
             <h2 style="font-size: 0.8rem; color: var(--text-light); letter-spacing: 2px;">STRATEGIC INTEL VAULT</h2>
-            <button class="btn btn-main" onclick="openModal('modal-table')">+ NEW TABLE</button>
+            <div style="display: flex; gap: 10px; align-items: center;">
+                <div class="search-container">
+                    <span class="search-icon" onclick="document.getElementById('live-search').focus()">🔍</span>
+                    <input type="text" id="live-search" class="search-input" placeholder="Search Intel..." oninput="executeLiveSearch(this.value)">
+                </div>
+                <button class="btn btn-main" onclick="openModal('modal-table')">+ NEW TABLE</button>
+            </div>
         </div>
         <div id="master-container"></div>
     </div>
@@ -213,6 +230,36 @@
         
         let vault = [], fileSha = "", currentTableId = "";
 
+        // FITUR LIVE SEARCH
+        function executeLiveSearch(query) {
+            query = query.toLowerCase().trim();
+            const allRows = document.querySelectorAll('tbody tr');
+            const allTables = document.querySelectorAll('.table-body-collapse');
+            
+            if (query === "") {
+                // Reset tampilan jika pencarian kosong
+                allRows.forEach(row => {
+                    row.classList.remove('highlight-row', 'hidden-row');
+                });
+                return;
+            }
+
+            allRows.forEach(row => {
+                const text = row.innerText.toLowerCase();
+                const tableBody = row.closest('.table-body-collapse');
+                
+                if (text.includes(query)) {
+                    row.classList.add('highlight-row');
+                    row.classList.remove('hidden-row');
+                    // Otomatis buka tabel jika data ditemukan
+                    tableBody.classList.remove('hidden');
+                } else {
+                    row.classList.remove('highlight-row');
+                    row.classList.add('hidden-row');
+                }
+            });
+        }
+
         function checkLogin() {
             const user = document.getElementById('user-input').value;
             const pass = document.getElementById('pass-input').value;
@@ -223,20 +270,18 @@
             } else { alert("ACCESS DENIED"); }
         }
 
+        // --- FUNGSI ASLI YANG TIDAK DIUBAH ---
         function showCyberPopup({title, msg, icon, type, layer, onConfirm}) {
             const m = document.getElementById('modal-alert');
             document.getElementById('alert-title').innerText = title;
             document.getElementById('alert-msg').innerText = msg;
             document.getElementById('alert-icon').innerText = icon || '⚠️';
             document.getElementById('alert-layer').innerText = layer ? `LAYER: ${layer}/7` : '';
-            
             const promptArea = document.getElementById('alert-prompt-area');
             promptArea.style.display = (type === 'prompt') ? 'block' : 'none';
             document.getElementById('alert-input').value = '';
-            
             const footer = document.getElementById('alert-footer');
             footer.innerHTML = '';
-
             const btnOk = document.createElement('button');
             btnOk.className = 'btn btn-main'; btnOk.innerText = (layer && layer < 7) ? 'PROCEED' : 'CONFIRM';
             btnOk.onclick = () => {
@@ -244,7 +289,6 @@
                 if(onConfirm) onConfirm(val);
                 if(type !== 'prompt' && !layer) closeModal('modal-alert');
             };
-
             if(type !== 'alert') {
                 const btnCancel = document.createElement('button');
                 btnCancel.className = 'btn btn-outline'; btnCancel.innerText = 'ABORT';
@@ -388,9 +432,7 @@
             const cols = document.getElementById('new-table-cols').value;
             const bg = document.getElementById('new-table-bg').value;
             if(!name || !cols) return;
-            
-            closeModal('modal-table'); // Tutup input form dulu
-            
+            closeModal('modal-table');
             showCyberPopup({
                 title: 'DEPLOY VAULT', msg: 'Enter Token to finalize table creation.', icon: '🏗️', type: 'prompt',
                 onConfirm: async (token) => {
