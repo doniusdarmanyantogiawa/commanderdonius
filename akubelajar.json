@@ -20,5 +20,16 @@
       }
     ],
     "bgColor": "#8b5cf6"
+  },
+  {
+    "id": "t1767805728630",
+    "name": "Keuangan",
+    "columns": [
+      "No",
+      "Nama",
+      "Deskripsi"
+    ],
+    "data": [],
+    "bgColor": "#06b6d4"
   }
 ]
