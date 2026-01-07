@@ -100,6 +100,10 @@
       {
         "Istilah": "Breakout",
         "Definisi / Keterangan Singkat": "Harga menembus area Support atau Resistance dengan volume kuat."
+      },
+      {
+        "Istilah": "Retest",
+        "Definisi / Keterangan Singkat": "Harga kembali menyentuh area yang baru ditembus sebelum melanjutkan tren."
       }
     ],
     "bgColor": "#334155"
