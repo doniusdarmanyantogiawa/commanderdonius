@@ -88,6 +88,10 @@
       {
         "Istilah": "Price Action",
         "Definisi / Keterangan Singkat": "Analisis pergerakan harga murni tanpa bantuan indikator berlebih."
+      },
+      {
+        "Istilah": "Resistensi",
+        "Definisi / Keterangan Singkat": "Supply Zone: Area harga tinggi di mana tekanan jual mulai muncul."
       }
     ],
     "bgColor": "#334155"
