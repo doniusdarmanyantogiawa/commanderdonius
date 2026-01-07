@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "t1767786153076",
+    "name": "Belajar Ilmu Trading",
+    "columns": [
+      "No",
+      "Keterangan",
+      "Deskripsi"
+    ],
+    "data": [],
+    "bgColor": "#1e293b"
+  }
+]
