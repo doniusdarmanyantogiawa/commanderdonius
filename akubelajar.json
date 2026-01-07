@@ -1,27 +1,5 @@
 [
   {
-    "id": "t1767803714922",
-    "name": "Istilah Investasi",
-    "columns": [
-      "No",
-      "Istilah",
-      "Deskripsi"
-    ],
-    "data": [
-      {
-        "No": "1",
-        "Istilah": "Audit",
-        "Deskripsi": "Diperiksa"
-      },
-      {
-        "No": "belajar",
-        "Istilah": "belajar menambah pengetahuan",
-        "Deskripsi": "pengetahuan akan menambah kemampuan kita lebih baik"
-      }
-    ],
-    "bgColor": "#8b5cf6"
-  },
-  {
     "id": "t1767805728630",
     "name": "Keuangan",
     "columns": [
