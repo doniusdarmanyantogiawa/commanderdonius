@@ -57,6 +57,10 @@
       {
         "Istilah": "Mode Isolated",
         "Definisi / Keterangan Singkat": "Membatasi risiko hanya pada saldo yang digunakan di satu posisi saja."
+      },
+      {
+        "Istilah": "Floating Lose",
+        "Definisi / Keterangan Singkat": "Kerugian berjalan yang belum dikunci (masih sementara)."
       }
     ],
     "bgColor": "#8b5cf6"
