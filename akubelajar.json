@@ -18,6 +18,10 @@
       {
         "Istilah": "DCA",
         "Definisi / Keterangan Singkat": "Dollar Cost Averaging: Cicil beli bertahap secara rutin."
+      },
+      {
+        "Istilah": "Capital Gain",
+        "Definisi / Keterangan Singkat": "Keuntungan dari selisih harga jual yang lebih tinggi dari harga beli."
       }
     ],
     "bgColor": "#06b6d4"
