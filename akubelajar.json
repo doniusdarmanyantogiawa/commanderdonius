@@ -41,7 +41,12 @@
       "Istilah",
       "Definisi / Keterangan Singkat"
     ],
-    "data": [],
+    "data": [
+      {
+        "Istilah": "Balance",
+        "Definisi / Keterangan Singkat": "Saldo keseluruhan dalam akun sebelum dikurangi posisi berjalan."
+      }
+    ],
     "bgColor": "#8b5cf6"
   }
 ]
