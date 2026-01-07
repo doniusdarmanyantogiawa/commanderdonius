@@ -45,6 +45,10 @@
       {
         "Istilah": "Balance",
         "Definisi / Keterangan Singkat": "Saldo keseluruhan dalam akun sebelum dikurangi posisi berjalan."
+      },
+      {
+        "Istilah": "Margin",
+        "Definisi / Keterangan Singkat": "Jaminan atau saldo yang digunakan untuk membuka posisi trading."
       }
     ],
     "bgColor": "#8b5cf6"
