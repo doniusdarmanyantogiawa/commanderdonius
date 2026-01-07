@@ -96,6 +96,10 @@
       {
         "Istilah": "Level Support",
         "Definisi / Keterangan Singkat": "Demand Zone: Area harga rendah di mana tekanan beli mulai muncul."
+      },
+      {
+        "Istilah": "Breakout",
+        "Definisi / Keterangan Singkat": "Harga menembus area Support atau Resistance dengan volume kuat."
       }
     ],
     "bgColor": "#334155"
