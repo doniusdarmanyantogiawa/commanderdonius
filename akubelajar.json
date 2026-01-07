@@ -76,5 +76,15 @@
       }
     ],
     "bgColor": "#8b5cf6"
+  },
+  {
+    "id": "t1767807375037",
+    "name": "Analisis Teknikal",
+    "columns": [
+      "Istilah",
+      "Definisi / Keterangan Singkat"
+    ],
+    "data": [],
+    "bgColor": "#334155"
   }
 ]
