@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "t1767803714922",
+    "name": "Istilah Investasi",
+    "columns": [
+      "No",
+      "Istilah",
+      "Deskripsi"
+    ],
+    "data": [],
+    "bgColor": "#8b5cf6"
+  }
+]
