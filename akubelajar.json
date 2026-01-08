@@ -217,7 +217,13 @@
       "Name",
       "Random Number"
     ],
-    "data": [],
+    "data": [
+      {
+        "No": "1",
+        "Name": "AYH/KK",
+        "Random Number": "082352061384"
+      }
+    ],
     "bgColor": "#ef4444"
   }
 ]
