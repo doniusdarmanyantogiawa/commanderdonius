@@ -214,6 +214,10 @@
       {
         "Istilah": "Asset Likuid",
         "Definisi / Keterangan Singkat": "Aset likuid adalah harta atau kekayaan yang dapat dengan cepat dan mudah dikonversi menjadi uang tunai tanpa kehilangan nilai yang signifikan.  CONTOH Aset likuid (uang tunai, emas, tabungan, depositu). CONTOH aset tidak likuid (rumah, tanah, apartemen, kendaraan, barang koleksi) "
+      },
+      {
+        "Istilah": "BID & OFFER",
+        "Definisi / Keterangan Singkat": "BID (atau Bid Price):\nHarga tertinggi yang pembeli bersedia bayar untuk membeli saham tersebut saat itu.\nDalam running trade atau order book, BID adalah kolom harga di sisi beli (biasanya warna hijau).\nOFFER (atau Offer Price / Ask Price):\nHarga terendah yang penjual bersedia terima untuk menjual saham tersebut saat itu.\nDalam order book, OFFER adalah kolom harga di sisi jual (biasanya warna merah)."
       }
     ],
     "bgColor": "#f59e0b"
