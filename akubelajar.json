@@ -198,5 +198,15 @@
     ],
     "data": [],
     "bgColor": "#f43f5e"
+  },
+  {
+    "id": "t1767844456184",
+    "name": "Istilah Umum Belajar Investasi",
+    "columns": [
+      "Istilah",
+      "Definisi / Keterangan Singkat"
+    ],
+    "data": [],
+    "bgColor": "#f59e0b"
   }
 ]
