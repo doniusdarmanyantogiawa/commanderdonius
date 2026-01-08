@@ -250,6 +250,10 @@
       {
         "Istilah": "ANALISA FUNDAMENTAL",
         "Definisi / Keterangan Singkat": "ANALISA FUNDAMENTAL: metode menilai nilai wajar suatu saham/perusahaan dengan melihat kondisi bisnis dan keuangannya.\nContoh: analisis laporan keuangan, pertumbuhan laba, utang, prospek industri, dan manajemen perusahaan."
+      },
+      {
+        "Istilah": "STOCK SPLIT",
+        "Definisi / Keterangan Singkat": "STOCK SPLIT (Pemecahan Saham): tindakan perusahaan membagi satu saham menjadi beberapa bagian agar harga per saham jadi lebih murah tanpa mengubah total nilai kepemilikan.\nContoh: 1 saham dipecah menjadi 5 saham (1:5)."
       }
     ],
     "bgColor": "#f59e0b"
