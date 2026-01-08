@@ -230,6 +230,10 @@
       {
         "Istilah": "SUSPEND",
         "Definisi / Keterangan Singkat": "SUSPEND (Suspensi Perdagangan): penghentian sementara perdagangan suatu saham/efek oleh bursa.\nContoh: saham dihentikan sementara karena volatilitas ekstrem, pelanggaran aturan, atau keterlambatan laporan keuangan."
+      },
+      {
+        "Istilah": "UMA",
+        "Definisi / Keterangan Singkat": "UMA (Unusual Market Activity): indikasi aktivitas perdagangan saham yang tidak wajar dan perlu dipantau.\nContoh: lonjakan harga atau volume tiba-tiba tanpa informasi material dari perusahaan."
       }
     ],
     "bgColor": "#f59e0b"
