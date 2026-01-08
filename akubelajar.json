@@ -218,6 +218,10 @@
       {
         "Istilah": "BID & OFFER",
         "Definisi / Keterangan Singkat": "BID (atau Bid Price):\nHarga tertinggi yang pembeli bersedia bayar untuk membeli saham tersebut saat itu.\nDalam running trade atau order book, BID adalah kolom harga di sisi beli (biasanya warna hijau).\nOFFER (atau Offer Price / Ask Price):\nHarga terendah yang penjual bersedia terima untuk menjual saham tersebut saat itu.\nDalam order book, OFFER adalah kolom harga di sisi jual (biasanya warna merah)."
+      },
+      {
+        "Istilah": "HAKA & HAKI",
+        "Definisi / Keterangan Singkat": "HAKA (Hak Atas Kekayaan Alam): hak atas pemanfaatan sumber daya alam.\nContoh: hutan, tambang, air.\n\nHAKI (Hak Atas Kekayaan Intelektual): hak atas hasil karya dan kreativitas manusia.\nContoh: merek dagang, paten, desain industri, lagu, software, buku."
       }
     ],
     "bgColor": "#f59e0b"
