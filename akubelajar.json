@@ -254,6 +254,10 @@
       {
         "Istilah": "STOCK SPLIT",
         "Definisi / Keterangan Singkat": "STOCK SPLIT (Pemecahan Saham): tindakan perusahaan membagi satu saham menjadi beberapa bagian agar harga per saham jadi lebih murah tanpa mengubah total nilai kepemilikan.\nContoh: 1 saham dipecah menjadi 5 saham (1:5)."
+      },
+      {
+        "Istilah": "SEKURITAS",
+        "Definisi / Keterangan Singkat": "SEKURITAS: surat berharga yang bisa diperdagangkan sebagai instrumen investasi.\nContoh: saham, obligasi, reksa dana, dan derivatif."
       }
     ],
     "bgColor": "#f59e0b"
