@@ -210,6 +210,10 @@
       {
         "Istilah": "ARA & ARB",
         "Definisi / Keterangan Singkat": "ARA (Auto Rejection Atas): Batas maksimal kenaikan harga saham dalam sehari. Sistem menolak order beli di atas batas tersebut.\n\nARB (Auto Rejection Bawah): Batas maksimal penurunan harga saham dalam sehari."
+      },
+      {
+        "Istilah": "Asset Likuid",
+        "Definisi / Keterangan Singkat": "Aset likuid adalah harta atau kekayaan yang dapat dengan cepat dan mudah dikonversi menjadi uang tunai tanpa kehilangan nilai yang signifikan.  CONTOH Aset likuid (uang tunai, emas, tabungan, depositu). CONTOH aset tidak likuid (rumah, tanah, apartemen, kendaraan, barang koleksi) "
       }
     ],
     "bgColor": "#f59e0b"
