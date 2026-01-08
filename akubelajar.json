@@ -242,6 +242,10 @@
       {
         "Istilah": "PORTOFOLIO",
         "Definisi / Keterangan Singkat": "PORTOFOLIO: kumpulan aset/investasi yang dimiliki seseorang atau institusi.\nContoh: saham, obligasi, reksa dana, deposito, properti."
+      },
+      {
+        "Istilah": "IHSG",
+        "Definisi / Keterangan Singkat": "IHSG (Indeks Harga Saham Gabungan): indikator yang mengukur kinerja seluruh saham yang tercatat di Bursa Efek Indonesia.\nContoh: IHSG naik saat mayoritas saham BEI menguat, dan turun saat banyak saham melemah."
       }
     ],
     "bgColor": "#f59e0b"
