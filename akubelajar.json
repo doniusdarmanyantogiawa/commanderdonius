@@ -238,6 +238,10 @@
       {
         "Istilah": "DELISTING",
         "Definisi / Keterangan Singkat": "DELISTING: penghapusan saham/emitmen dari pencatatan di bursa sehingga tidak lagi diperdagangkan.\nContoh: perusahaan keluar dari BEI karena tidak memenuhi aturan, bangkrut, atau keputusan perusahaan sendiri."
+      },
+      {
+        "Istilah": "PORTOFOLIO",
+        "Definisi / Keterangan Singkat": "PORTOFOLIO: kumpulan aset/investasi yang dimiliki seseorang atau institusi.\nContoh: saham, obligasi, reksa dana, deposito, properti."
       }
     ],
     "bgColor": "#f59e0b"
