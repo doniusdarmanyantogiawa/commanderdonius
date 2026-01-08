@@ -258,6 +258,10 @@
       {
         "Istilah": "SEKURITAS",
         "Definisi / Keterangan Singkat": "SEKURITAS: surat berharga yang bisa diperdagangkan sebagai instrumen investasi.\nContoh: saham, obligasi, reksa dana, dan derivatif."
+      },
+      {
+        "Istilah": "RDN",
+        "Definisi / Keterangan Singkat": "RDN (Rekening Dana Nasabah): rekening bank khusus untuk menampung dana transaksi investasi di pasar modal.\nContoh: setor dana ke RDN untuk beli saham, dana hasil jual saham masuk ke RDN."
       }
     ],
     "bgColor": "#f59e0b"
