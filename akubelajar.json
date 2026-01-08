@@ -206,7 +206,12 @@
       "Istilah",
       "Definisi / Keterangan Singkat"
     ],
-    "data": [],
+    "data": [
+      {
+        "Istilah": "ARA & ARB",
+        "Definisi / Keterangan Singkat": "ARA (Auto Rejection Atas): Batas maksimal kenaikan harga saham dalam sehari. Sistem menolak order beli di atas batas tersebut.\nARB (Auto Rejection Bawah): Batas maksimal penurunan harga saham dalam sehari."
+      }
+    ],
     "bgColor": "#f59e0b"
   },
   {
