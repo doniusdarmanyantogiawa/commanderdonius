@@ -226,6 +226,10 @@
       {
         "Istilah": "IPO",
         "Definisi / Keterangan Singkat": "IPO (Initial Public Offering): proses ketika perusahaan pertama kali menjual sahamnya ke publik di bursa.\nContoh: perusahaan listing di BEI, masyarakat bisa membeli sahamnya."
+      },
+      {
+        "Istilah": "SUSPEND",
+        "Definisi / Keterangan Singkat": "SUSPEND (Suspensi Perdagangan): penghentian sementara perdagangan suatu saham/efek oleh bursa.\nContoh: saham dihentikan sementara karena volatilitas ekstrem, pelanggaran aturan, atau keterlambatan laporan keuangan."
       }
     ],
     "bgColor": "#f59e0b"
