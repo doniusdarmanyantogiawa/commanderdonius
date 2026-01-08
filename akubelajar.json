@@ -262,6 +262,10 @@
       {
         "Istilah": "RDN",
         "Definisi / Keterangan Singkat": "RDN (Rekening Dana Nasabah): rekening bank khusus untuk menampung dana transaksi investasi di pasar modal.\nContoh: setor dana ke RDN untuk beli saham, dana hasil jual saham masuk ke RDN."
+      },
+      {
+        "Istilah": "DEVIDEN",
+        "Definisi / Keterangan Singkat": "DIVIDEN: pembagian laba perusahaan kepada para pemegang saham.\nContoh: dividen tunai yang ditransfer ke investor, atau dividen saham yang menambah jumlah saham yang dimiliki."
       }
     ],
     "bgColor": "#f59e0b"
