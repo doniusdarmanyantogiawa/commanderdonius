@@ -234,6 +234,10 @@
       {
         "Istilah": "UMA",
         "Definisi / Keterangan Singkat": "UMA (Unusual Market Activity): indikasi aktivitas perdagangan saham yang tidak wajar dan perlu dipantau.\nContoh: lonjakan harga atau volume tiba-tiba tanpa informasi material dari perusahaan."
+      },
+      {
+        "Istilah": "DELISTING",
+        "Definisi / Keterangan Singkat": "DELISTING: penghapusan saham/emitmen dari pencatatan di bursa sehingga tidak lagi diperdagangkan.\nContoh: perusahaan keluar dari BEI karena tidak memenuhi aturan, bangkrut, atau keputusan perusahaan sendiri."
       }
     ],
     "bgColor": "#f59e0b"
