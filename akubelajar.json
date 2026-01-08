@@ -246,6 +246,10 @@
       {
         "Istilah": "IHSG",
         "Definisi / Keterangan Singkat": "IHSG (Indeks Harga Saham Gabungan): indikator yang mengukur kinerja seluruh saham yang tercatat di Bursa Efek Indonesia.\nContoh: IHSG naik saat mayoritas saham BEI menguat, dan turun saat banyak saham melemah."
+      },
+      {
+        "Istilah": "ANALISA FUNDAMENTAL",
+        "Definisi / Keterangan Singkat": "ANALISA FUNDAMENTAL: metode menilai nilai wajar suatu saham/perusahaan dengan melihat kondisi bisnis dan keuangannya.\nContoh: analisis laporan keuangan, pertumbuhan laba, utang, prospek industri, dan manajemen perusahaan."
       }
     ],
     "bgColor": "#f59e0b"
