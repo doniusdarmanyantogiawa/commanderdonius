@@ -188,5 +188,15 @@
       }
     ],
     "bgColor": "#1e293b"
+  },
+  {
+    "id": "t1767844368074",
+    "name": "Istilah Umum",
+    "columns": [
+      "Istilah",
+      "Definisi / Keterangan Singkat"
+    ],
+    "data": [],
+    "bgColor": "#f43f5e"
   }
 ]
