@@ -208,5 +208,16 @@
     ],
     "data": [],
     "bgColor": "#f59e0b"
+  },
+  {
+    "id": "t1767844639401",
+    "name": "CONTACT COLLECTION",
+    "columns": [
+      "No",
+      "Name",
+      "Random Number"
+    ],
+    "data": [],
+    "bgColor": "#ef4444"
   }
 ]
