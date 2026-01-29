@@ -419,7 +419,13 @@
       "JENIS INVESTASI",
       "NAMA INVESTASI"
     ],
-    "data": [],
+    "data": [
+      {
+        "NAMA": "INVESTASI SAHAM US",
+        "JENIS INVESTASI": "SAHAM",
+        "NAMA INVESTASI": "Amazon, Tesla, Eli, Microsoft, NVIDIA"
+      }
+    ],
     "bgColor": "#6366f1"
   }
 ]
