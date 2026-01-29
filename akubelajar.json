@@ -424,6 +424,11 @@
         "NAMA": "INVESTASI SAHAM US",
         "JENIS INVESTASI": "SAHAM",
         "NAMA INVESTASI": "Amazon, Tesla, Eli, Microsoft, NVIDIA"
+      },
+      {
+        "NAMA": "Investasi Crypto",
+        "JENIS INVESTASI": "Crypto",
+        "NAMA INVESTASI": "BTC, ETH, SOLANA, LINK, XRP"
       }
     ],
     "bgColor": "#6366f1"
