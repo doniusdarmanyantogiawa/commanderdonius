@@ -410,5 +410,16 @@
       }
     ],
     "bgColor": "#ef4444"
+  },
+  {
+    "id": "t1769662181445",
+    "name": "DAFTAR INVESTASI JANGKA PANJANG",
+    "columns": [
+      "NAMA",
+      "JENIS INVESTASI",
+      "NAMA INVESTASI"
+    ],
+    "data": [],
+    "bgColor": "#6366f1"
   }
 ]
