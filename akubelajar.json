@@ -443,7 +443,15 @@
       "KATA KUNCI",
       "PEMBAHASAN SINGKAT"
     ],
-    "data": [],
+    "data": [
+      {
+        "NO": "1",
+        "SOAL": "Dasar negara Indonesia adalah…",
+        "JAWABAN": "Pancasila",
+        "KATA KUNCI": "Dasar negara = Pancasila",
+        "PEMBAHASAN SINGKAT": "Pancasila adalah dasar negara sekaligus ideologi bangsa Indonesia sejak 18 Agustus 1945."
+      }
+    ],
     "bgColor": "#f59e0b"
   }
 ]
