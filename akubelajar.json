@@ -432,5 +432,18 @@
       }
     ],
     "bgColor": "#6366f1"
+  },
+  {
+    "id": "t1778557820346",
+    "name": "SOAL TWK",
+    "columns": [
+      "NO",
+      "SOAL",
+      "JAWABAN",
+      "KATA KUNCI",
+      "PEMBAHASAN SINGKAT"
+    ],
+    "data": [],
+    "bgColor": "#f59e0b"
   }
 ]
