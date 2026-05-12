@@ -506,6 +506,13 @@
         "JAWABAN": "Kesatuan",
         "KATA KUNCI": "NKRI = Kesatuan",
         "PEMBAHASAN SINGKAT": "Indonesia berbentuk Negara Kesatuan Republik Indonesia (NKRI)."
+      },
+      {
+        "NO": "10",
+        "SOAL": "Presiden dan Wakil Presiden dipilih melalui…",
+        "JAWABAN": "Pemilu",
+        "KATA KUNCI": "Presiden dipilih langsung oleh rakyat.",
+        "PEMBAHASAN SINGKAT": "Sejak amandemen UUD 1945, presiden dipilih langsung oleh rakyat."
       }
     ],
     "bgColor": "#f59e0b"
