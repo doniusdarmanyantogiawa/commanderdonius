@@ -926,6 +926,13 @@
         "JAWABAN": "Tercapai mufakat",
         "KATA KUNCI": "Musyawarah = mufakat",
         "PEMBAHASAN SINGKAT": "Musyawarah menghasilkan keputusan bersama."
+      },
+      {
+        "NO": "70",
+        "SOAL": "Negara Indonesia menganut kedaulatan…",
+        "JAWABAN": "Rakyat",
+        "KATA KUNCI": "Kedaulatan = rakyat",
+        "PEMBAHASAN SINGKAT": "Kedaulatan rakyat adalah prinsip demokrasi Indonesia."
       }
     ],
     "bgColor": "#f59e0b"
